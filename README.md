@@ -3,7 +3,7 @@
 ## Free
 - [freeCodeCamp](https://www.freecodecamp.org)
 - [The Odin Project](https://www.theodinproject.com)
-- [Edx]https://www.edx.org)
+- [Edx](https://www.edx.org)
 
 ## Paid / Membership
 - [Udemy](https://www.udemy.com)
@@ -14,7 +14,7 @@
 - [LinkedIn Learning](https://www.linkedin.com/learning)
 
 ## Academic Institutions
-- [Stanford University] (https://online.stanford.edu/free-courses)
+- [Stanford University](https://online.stanford.edu/free-courses)
 - [MIT](https://ocw.mit.edu/collections/introductory-programming)
 - [Harvard](https://pll.harvard.edu/catalog/free)
 
