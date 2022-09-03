@@ -4,6 +4,9 @@
 - [freeCodeCamp](https://www.freecodecamp.org)
 - [The Odin Project](https://www.theodinproject.com)
 - [Edx](https://www.edx.org)
+- [HackerHero](https://www.hackerhero.com)
+- [CodeAcademy](https://www.codecademy.com)
+- [LaraCasts](https://laracasts.com)
 
 ## Paid / Membership
 - [Udemy](https://www.udemy.com)
@@ -38,5 +41,16 @@
 - [Glitch](https://glitch.com)
 
 ## Paid / Membership
+
+# Coding Bootcamps
+- [Zuitt](https://zuitt.co)
+- [Village 88](https://village88.com)
+
+# Tech Streamers
+-[Twitch](https://www.twitch.tv/directory/game/Software%20and%20Game%20Development)
+-[donvitocodes](https://twitch.tv/donvitocodes)
+-[Theo](https://www.twitch.tv/theo)
+-[ThePrimeagen](https://www.twitch.tv/theprimeagen)
+
 
 
