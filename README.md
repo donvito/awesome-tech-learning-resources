@@ -47,10 +47,10 @@
 - [Village 88](https://village88.com)
 
 # Tech Streamers
--[Twitch](https://www.twitch.tv/directory/game/Software%20and%20Game%20Development)
--[donvitocodes](https://twitch.tv/donvitocodes)
--[Theo](https://www.twitch.tv/theo)
--[ThePrimeagen](https://www.twitch.tv/theprimeagen)
+- [Twitch](https://www.twitch.tv/directory/game/Software%20and%20Game%20Development)
+- [donvitocodes](https://twitch.tv/donvitocodes)
+- [Theo](https://www.twitch.tv/theo)
+- [ThePrimeagen](https://www.twitch.tv/theprimeagen)
 
 
 
