@@ -17,6 +17,7 @@
 - [LinkedIn Learning](https://www.linkedin.com/learning)
 - [Oreilly](https://www.oreilly.com)
 - [A Cloud Guru](https://acloudguru.com)
+- [The App Brewery](https://appbrewery.com)
 
 ## Academic Institutions
 - [Stanford University](https://online.stanford.edu/free-courses)
